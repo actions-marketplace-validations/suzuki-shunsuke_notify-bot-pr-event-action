@@ -66,73 +66,73 @@
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.0/nllint_darwin_amd64.tar.gz",
-      "checksum": "0D9A6CD52F337F597E3C06BF29BDAE55BBE58BE2447E1D7CC2818DA10336626C",
+      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_darwin_amd64.tar.gz",
+      "checksum": "4DEB02933BA8BA7DD7E1744ED8FF4577458B1614410FF131A54A477A44149410",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.0/nllint_darwin_arm64.tar.gz",
-      "checksum": "BFF59EF81786E8D9CAEE953854C803563D7D880DBC748885064445D1443725DF",
+      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_darwin_arm64.tar.gz",
+      "checksum": "24F5DD3C456FF7ED601122BA7B510011CAFB0FD6B25F5B7684ED3C966984BF87",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.0/nllint_linux_amd64.tar.gz",
-      "checksum": "E5D885845FA6A36C5984C15E8DC6988AA8EA49683B999CB797ED87A9196B99EF",
+      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_linux_amd64.tar.gz",
+      "checksum": "2572058F52C9A883D06BF7A25CD3B94E245E703F85A5E8EF2F2110FC1C798989",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.0/nllint_linux_arm64.tar.gz",
-      "checksum": "2A1ACC20503265564AC8CE230A81FF989E03505432E30DA9B24A771FE7D8EEF3",
+      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_linux_arm64.tar.gz",
+      "checksum": "7D7AF975522A068C553D48749756AA06047210AA14322924256EF98FCA2AB0CA",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.0/nllint_windows_amd64.zip",
-      "checksum": "896A1D33CFCFCA4B59AE2D6D7A3AD25E881C7711E82CF303D391FDBB74061F87",
+      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_windows_amd64.zip",
+      "checksum": "7FFD76360135E98EF12A557A819386169630B03F9730D3B87FC57B5ED4335033",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.0/nllint_windows_arm64.zip",
-      "checksum": "D614EA44097D6D11E2263E2A34232DB3366CB7EA00ABC760E6D8179CE2295C26",
+      "id": "github_release/github.com/suzuki-shunsuke/nllint/v1.2.1/nllint_windows_arm64.zip",
+      "checksum": "B9D1B017EDCF1688C94518DAA32E978E1FACE97932D4E555E1743B9D0A79227C",
       "algorithm": "sha256"
     },
     {
-      "id": "http/nodejs.org/dist/v24.22.1/node-v24.22.1-darwin-arm64.tar.gz",
-      "checksum": "89C682593D76CD44233FA53B1563264E7DE9CBB189CAD169135C5B4FADFBC0A7",
+      "id": "http/nodejs.org/dist/v24.22.2/node-v24.22.2-darwin-arm64.tar.gz",
+      "checksum": "AA9549349E47DFFAA42DCF95D6E06ADE8C4BDAFC980979883B88767670DF385A",
       "algorithm": "sha256"
     },
     {
-      "id": "http/nodejs.org/dist/v24.22.1/node-v24.22.1-darwin-x64.tar.gz",
-      "checksum": "D132557E7EE2B85AF08B0C8C34338E65C6430F2238D01F727728EF42DC83B035",
+      "id": "http/nodejs.org/dist/v24.22.2/node-v24.22.2-darwin-x64.tar.gz",
+      "checksum": "D5E336D588C45BE0C37DBD52CC29895593009CA4997A77A1FD02815131ED0E52",
       "algorithm": "sha256"
     },
     {
-      "id": "http/nodejs.org/dist/v24.22.1/node-v24.22.1-linux-arm64.tar.gz",
-      "checksum": "33C37BE234BA8BEE041961047B19160F4D7D0F164E8E246F78BDD10FEFF148B3",
+      "id": "http/nodejs.org/dist/v24.22.2/node-v24.22.2-linux-arm64.tar.gz",
+      "checksum": "95C264150ACEB7F3437A29FD6984924F5F8D1511EA3CBD6C508B83F6C555DAE2",
       "algorithm": "sha256"
     },
     {
-      "id": "http/nodejs.org/dist/v24.22.1/node-v24.22.1-linux-x64.tar.gz",
-      "checksum": "EB6728E77C576A35162C122C45CCADF224D89FF00ABC8DAE46CC2897C6002D7C",
+      "id": "http/nodejs.org/dist/v24.22.2/node-v24.22.2-linux-x64.tar.gz",
+      "checksum": "361718C444E49AF2CA5A110C83BA6A8901143F23AB285EBBEF0341F391F482A9",
       "algorithm": "sha256"
     },
     {
-      "id": "http/nodejs.org/dist/v24.22.1/node-v24.22.1-win-x64.zip",
-      "checksum": "D2046D28C2C3DCD211AC5145C0BF30E2047EF9DFB306693C8C6E2ECCD8B95FA5",
+      "id": "http/nodejs.org/dist/v24.22.2/node-v24.22.2-win-x64.zip",
+      "checksum": "CA1BFF5D8EAD13C9F2EA404A176DB46BD430704D5B5113734049FA365E7799E2",
       "algorithm": "sha256"
     },
     {
-      "id": "http/unofficial-builds.nodejs.org/download/release/v24.22.1/node-v24.22.1-linux-arm64-musl.tar.gz",
-      "checksum": "8254125825A3E5E834BD8A260DAB4C8303F720464A741506EC27989B9BA1769B",
+      "id": "http/unofficial-builds.nodejs.org/download/release/v24.22.2/node-v24.22.2-linux-arm64-musl.tar.gz",
+      "checksum": "70AFD250A927FBC32F3D95A58597EFDF14AA8AD194E894268F9B8309A2DAB84E",
       "algorithm": "sha256"
     },
     {
-      "id": "http/unofficial-builds.nodejs.org/download/release/v24.22.1/node-v24.22.1-linux-x64-musl.tar.gz",
-      "checksum": "0A9EDDCE2D2E8F3ADDBE94FA46D751325B2D74F7FD1CE63296164D36B6DFC6E5",
+      "id": "http/unofficial-builds.nodejs.org/download/release/v24.22.2/node-v24.22.2-linux-x64-musl.tar.gz",
+      "checksum": "867E322D67294E9C405F10CAE5D70ED2E4940BB367FA47DBCB5151C9899D7C04",
       "algorithm": "sha256"
     },
     {
-      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.578.0/registry.yaml",
-      "checksum": "EA4C2D5E969C4DA4C261F87B2B090A2BC137E6DC6406884E380AA465E25EA68D",
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.583.0/registry.yaml",
+      "checksum": "4DF93DAEA98288B1C20AFA5AA9559CD09E6311C82D5FEBB6081B0D7F5F57A3EF",
       "algorithm": "sha256"
     }
   ]
